@@ -1,4 +1,5 @@
 import typing
+# değişiklik yaptım
 
 import discord
 from discord.ext import commands
